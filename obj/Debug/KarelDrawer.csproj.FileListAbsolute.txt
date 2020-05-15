@@ -1,0 +1,10 @@
+C:\Users\Sandia\source\repos\KarelDrawer\bin\Debug\KarelDrawer.exe.config
+C:\Users\Sandia\source\repos\KarelDrawer\bin\Debug\KarelDrawer.exe
+C:\Users\Sandia\source\repos\KarelDrawer\bin\Debug\KarelDrawer.pdb
+C:\Users\Sandia\source\repos\KarelDrawer\obj\Debug\KarelDrawer.csprojAssemblyReference.cache
+C:\Users\Sandia\source\repos\KarelDrawer\obj\Debug\KarelDrawer.Form1.resources
+C:\Users\Sandia\source\repos\KarelDrawer\obj\Debug\KarelDrawer.Properties.Resources.resources
+C:\Users\Sandia\source\repos\KarelDrawer\obj\Debug\KarelDrawer.csproj.GenerateResource.cache
+C:\Users\Sandia\source\repos\KarelDrawer\obj\Debug\KarelDrawer.csproj.CoreCompileInputs.cache
+C:\Users\Sandia\source\repos\KarelDrawer\obj\Debug\KarelDrawer.exe
+C:\Users\Sandia\source\repos\KarelDrawer\obj\Debug\KarelDrawer.pdb
