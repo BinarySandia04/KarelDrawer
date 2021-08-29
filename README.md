@@ -1,6 +1,6 @@
 # KarelDrawer
-A karel epic tool for generating code on the fly for winning matches in a ilegal way
-Sry royalmo for stealing your idea but I had to do it
+A karel epic tool for generating code on the fly for winning matches in a "illegal" way
+Sorry royalmo for stealing your idea but I had to do it ;)
 
 Issues:
 - Only works in a 1920x1080 display
